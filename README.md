@@ -1,6 +1,14 @@
 # Image-Seam
-Changing image size by using seam. Code removes less significant pixels in least significant path in selected direction.
+## Description
+The Image-Seam project focuses on resizing images dynamically by utilizing seam carving techniques. Seam carving involves the removal of less significant pixels along the least significant path in a specified direction, thereby adjusting the image's dimensions while preserving its essential features.
 
+This project is inspired by concepts from the Princeton Algorithms, Part II course, where advanced techniques for image processing and optimization are explored.
+
+For more details and a demonstration, refer to the <a href="https://coursera.cs.princeton.edu/algs4/assignments/seam/specification.php">Specification</a> and <a href="https://www.youtube.com/watch?v=6NcIJXTlugc">YouTube</a> example.
+
+This project demonstrates advanced image manipulation techniques, providing a flexible approach to resizing images while maintaining their visual integrity and quality.
+
+## Demo
 <table>
     <tbody>
        <tr>
